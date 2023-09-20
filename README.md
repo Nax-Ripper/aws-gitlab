@@ -107,3 +107,4 @@ sudo gitlab-rake 'gitlab:password:reset[root]'
 <li><a href ='https://cloudinfrastructureservices.co.uk/how-to-setup-gitlab-ce-server-on-azure-aws-gcp/'>How to Setup GitLab CE Server Linux on Azure/AWS/GCP
 </a></li>
 </ul>
+
